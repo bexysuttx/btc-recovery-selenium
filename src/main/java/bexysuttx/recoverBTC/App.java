@@ -44,9 +44,9 @@ public class App {
 
 			dataPage.inputEmail("testblog1230@gmail.com");
 
-			dataPage.inputPassword("Westy4313");
+			dataPage.inputPassword("XXX");
 
-			dataPage.inputConfPassword("Westy4313");
+			dataPage.inputConfPassword("XXX");
 
 			dataPage.clickContinueBtn();
 
